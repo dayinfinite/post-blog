@@ -26,8 +26,6 @@ python post-blog -t [tiile] -f [markdown文件] -tags [tag]
 
 ## Author
 
-## Author
-
 **git-pusher** © [zcong1993](https://github.com/inter-rpm, Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by zcong1993 with help from contributors ([list](https://github.com/inter-rpm/post-blog/graphs/contributors)).
 
