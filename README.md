@@ -9,7 +9,6 @@
 Usage: post-blog.py [OPTIONS]
 
 Options:
-  -t, --title TEXT  This is article title
   -f, --file TEXT   This is article content, and it is markdown file
   --tags TEXT       This is article tags
   -r, --url TEXT    This is url
